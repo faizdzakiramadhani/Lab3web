@@ -1,6 +1,6 @@
 # Lab3web
 
-# 1.Membaut Ordere list
+# 1.Membuat Ordere list
 ![gambar1](https://github.com/faizdzakiramadhani/Lab3web/assets/115913915/c5e77284-5090-4b69-a07c-923b59cb1221)
 
 
